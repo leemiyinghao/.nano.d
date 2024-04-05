@@ -9,3 +9,18 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# runtimes
+
+elpa/
+auto-save-list/
+.lsp-session*
+eln-cache/
+eshell/
+transient/
+custom.el
+history
+local-config/
+projectile-bookmarks.eld
+recentf
+straight/
